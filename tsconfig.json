@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "rootDir": "src",
+    "outDir": "./dist/public",
+    "module": "CommonJS",
+    "target": "ES6",
+    "moduleResolution": "node",
+    "jsx": "react",
+    "lib": ["ES5", "ES6", "ES7", "DOM"],
+    "declaration": true,
+    "esModuleInterop": true,
+    "allowJs": false,
+    "strict": true,
+    "noImplicitAny": true,
+    "removeComments": true,
+    "sourceMap": true
+  },
+  "include": ["./src"]
+}

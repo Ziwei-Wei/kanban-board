@@ -1,0 +1,14 @@
+node_modules
+npm-debug.log
+
+.github
+.vscode
+.storybook
+.git
+
+dist
+
+build.sh
+run.sh
+
+README.md
