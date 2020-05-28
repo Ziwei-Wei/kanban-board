@@ -6,6 +6,8 @@
 
 #### note: the backend can support multi-kanban and access management, but I did not implement these in frontend due to the requirement. So all user will share the same kanban.
 
+#### note: resumes are stored locally not in AWS S3 or Azure Storage, if you rebuild docker, they will get lost.
+
 #### good to know: test user = {email: test@gmail.com, password: 123123123}
 
 ### Architecture
