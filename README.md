@@ -23,3 +23,12 @@
 #### ./run.sh --run the docker image
 
 #### ./clean.sh --stop and remove all live containers
+
+### Deployment commands
+```console
+ git clone https://github.com/Ziwei-Wei/kanban-board.git
+ cd ./kanban-board/
+ ./build.sh
+ ./run.sh
+```
+### Open localhost:8080 to see the kanban
